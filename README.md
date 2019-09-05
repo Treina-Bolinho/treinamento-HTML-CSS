@@ -2,11 +2,11 @@
 
 ## 1.Descrição
 
-O objetivo desse treinamento é fazer o participante adiquirir conhecimento sobre as linguagens de marcação e estilização, html e css respectivamente.
+O objetivo desse treinamento é fazer o participante adquirir conhecimento sobre as linguagens de marcação e estilização, HTML e CSS respectivamente.
 
 As atividades são listadas com base na sua dificuldade e complexidade.
 
-Ao final do treinamento entendesse que o participante entenderá conceitos básicos de como estilizar uma página e estrutura-la.
+Ao final do treinamento o participante deverá ser capaz de estilizar uma página e estruturá-la.
 
 Utilize o [treinamento HTML/CSS](https://github.com/Treina-Bolinho/treinamento-HTML-CSS/tree/master/interfaces), durante a realização deste treinamento.
 
@@ -16,14 +16,14 @@ Utilize o [treinamento HTML/CSS](https://github.com/Treina-Bolinho/treinamento-H
 
 ### 2.1.1 Objetivo
 
-- Entender como funciona a estrutura de arquivo html e css.
+- Entender como funciona a estrutura de arquivo HTML e CSS.
 - Entender o que é frontend.
 
 ### 2.1.2 Tarefa HTML
 
 Entender as tags de html:
 
-#### 2.1.2.1 Após compreender o que a tag faz, escreva nesse arquivo a sua funcionalidade.
+#### 2.1.2.1 Após compreender o que a tag faz, escreva na tabela abaixo a sua funcionalidade.
 
 |Tags|Funcionalidade|
 |---|---|
