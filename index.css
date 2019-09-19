@@ -1,0 +1,17 @@
+body{
+    width: 70%;
+    margin: auto;
+    background: url(imagens/tree.png);
+
+    font-family: sans-serif;
+
+    color: white;
+}
+
+main{
+
+    background:#00001154;
+    padding: 20px 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
